@@ -11,7 +11,7 @@
           <div class="cont_tain"  @click="change1()">
             <router-link to="/first">
               <img src="../../../static/index2.jpg" class="tain1">
-              <span class="cont_word">首页1</span>
+              <span class="cont_word">首页</span>
             </router-link>
           </div>
         </li>
@@ -19,7 +19,7 @@
           <div class="cont_tain" @click="change2()">
             <router-link to="/system">
               <img src="../../../static/other1.jpg" class="tain2">
-              <span>分类1</span>
+              <span>分类</span>
             </router-link>
           </div>
         </li>
@@ -27,7 +27,7 @@
           <div class="cont_tain" @click="change3()">
             <router-link to="/shopcar">
               <img src="../../../static/car1.jpg" class="tain3">
-              <span>购物车1</span>
+              <span>购物车</span>
             </router-link>
           </div>
         </li>
@@ -35,7 +35,7 @@
           <div class="cont_tain" @click="change4()">
             <router-link to="/me">
               <img src="../../../static/me1.jpg" class="tain4">
-              <span>我1</span>
+              <span>我</span>
             </router-link>
           </div>
         </li>
